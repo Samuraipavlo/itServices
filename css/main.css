@@ -1,0 +1,16 @@
+/* Heading font */
+/* Linkage: font-family: 'Share Tech Mono', monospace; */
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap');
+/* Text font */
+/* Linkage:  font-family: 'Roboto', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
